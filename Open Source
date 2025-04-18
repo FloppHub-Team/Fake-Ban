@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Ban("You have been permanently banned for: 28288282 years, 12 months and 78 days")
+game.Players.LocalPlayer:Kick("You have been permanently banned for: 28288282 years, 12 months and 78 days")
